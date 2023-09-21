@@ -1,3 +1,2 @@
 # Foundations-of-Computer-Science
-
-This project for beginner includes 13 different tasks solved using Python.
+Project composed by 13 tasks for the "Foundations of Computer Science" course of the University of Milan Bicocca with Python.
